@@ -63,7 +63,7 @@ This Power BI project explores the import trends of Bahrain over a four-year per
 ## 🔍 Usage
 
 1. Clone this repository.
-2. Open the `.pbix` file in Power BI Desktop (if provided).
+2. Open the `.pbix` file in Power BI Desktop.
 3. Interact with slicers to filter by year, category, or country.
 4. Use this dashboard for reporting, decision making, or economic analysis.
 
